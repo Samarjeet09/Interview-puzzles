@@ -1,0 +1,2 @@
+01-No of Squares in a chessboard or any nxn board 
+02-Apple and orange puzzle (apple)
