@@ -2,3 +2,5 @@
 02-Apple and orange puzzle (apple)
 03-100 doors numeracy question
 04-Ants in a triangle probability question
+05-Money Heist
+06-The Helium Balloon
